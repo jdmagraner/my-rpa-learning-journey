@@ -26,7 +26,7 @@ This solution demonstrates:
 ## 🧰 Files Included
 • `Check and update exam results solution - Google Workspace.uip`  
 • `Check and update exam results solution - Microsoft Office 365.uip`  
-• Automation screenshots (in `/screenshots/`)  
+• Automation screenshots/video-recording
 
 ## 🙌 Lessons Learned
 Working with multiple branches and testing them with breakpoints helped me feel more confident troubleshooting my bots. I also practiced using the **Watch panel** to monitor key variables like `Marks` and `Email` step by step.
