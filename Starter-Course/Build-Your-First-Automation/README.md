@@ -72,11 +72,9 @@ But working through these issues made me better at thinking like an automation d
 
 ---
 
-## 🔗 GitHub Link to Project
+## 🔗 GitHub Link to Automation Project
 
 📂 [`studio-web-automations/update-invoice-discount`](https://github.com/jdmagraner/my-rpa-learning-journey/tree/main/studio-web-automations/update-invoice-discount)
-
-🎥 Includes a video of the bot logging into the ACME portal and retrieving discount information!
 
 ---
 
