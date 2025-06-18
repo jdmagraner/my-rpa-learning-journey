@@ -39,6 +39,5 @@ When an email arrives from a specific sender, the automation:
 
 - `README.md`
 - Visual Steps PDF
-- Automation Execution Video
-- Screenshots – automation steps and final result
+- Screenshot with automation steps and final result
   
