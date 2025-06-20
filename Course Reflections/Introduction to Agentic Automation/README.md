@@ -1,6 +1,7 @@
-# 🤖 Course Reflection: Introduction to Agentic Automation (UiPath Academy)#
-**Completed:** June 2025
-**Part of:** Automation Starter Learning Plan
+# 🤖 Course Reflection: Introduction to Agentic Automation (UiPath Academy) #
+
+**Completed:** June 2025  
+**Part of:** Automation Starter Learning Plan  
 **Final Quiz Score:** 100% ✅
 
 ---
