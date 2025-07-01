@@ -1,3 +1,7 @@
+Here’s the corrected version of your **“How To Write Better Prompts”** course reflection with proper GitHub-style formatting, matching exactly the visual structure of your previous modules:
+
+---
+
 🧠 **Course Reflection: How To Write Better Prompts (UiPath Academy)**
 **Completed:** June 2025
 **Part of:** Automation Starter Learning Plan
@@ -11,26 +15,24 @@ This course focused on building one of the most important modern automation skil
 ---
 
 📚 **What I Learned**
-
-* **Prompt Fundamentals:** A good prompt clearly communicates a task to a generative AI. This means stating the role, goal, format, and constraints.
-* **Prompt Anatomy:** Learned to break down prompts into key components: Role, Task, Context, Input Data, and Output Format.
-* **Common Pitfalls:** Vague prompts often lead to low-quality output. I saw how small changes in wording can completely change a result.
-* **Best Practices:** Using concrete examples, formatting cues, and constraints helped Autopilot generate better and more accurate automations.
-* **Iterative Refinement:** Prompts can and should be tested and refined, just like any other part of a workflow.
+• **Prompt Fundamentals:** A good prompt clearly communicates a task to a generative AI. This means stating the role, goal, format, and constraints.
+• **Prompt Anatomy:** Learned to break down prompts into key components: Role, Task, Context, Input Data, and Output Format.
+• **Common Pitfalls:** Vague prompts often lead to low-quality output. I saw how small changes in wording can completely change a result.
+• **Best Practices:** Using concrete examples, formatting cues, and constraints helped Autopilot generate better and more accurate automations.
+• **Iterative Refinement:** Prompts can and should be tested and refined, just like any other part of a workflow.
 
 ---
 
 💡 **Most Interesting Insight**
-The idea that prompt-writing is a *design* skill really changed how I see AI interactions. It's not just about asking a question—it's about creating an environment for the AI to succeed. Thinking in terms of “prompt structure” (role + task + format) gave me a mental checklist to improve every AI prompt I write.
+The idea that prompt-writing is a *design* skill really changed how I see AI interactions. It’s not just about asking a question—it’s about creating an environment for the AI to succeed. Thinking in terms of “prompt structure” (role + task + format) gave me a mental checklist to improve every AI prompt I write.
 
 ---
 
 💻 **Hands-On Activities**
-
-* Wrote prompts to summarize business reports and generate professional emails
-* Rewrote vague prompts into structured ones with clear instructions
-* Used the Autopilot interface to see side-by-side comparisons of different prompt outcomes
-* Explored how small adjustments in tone or format impacted the results
+• Wrote prompts to summarize business reports and generate professional emails
+• Rewrote vague prompts into structured ones with clear instructions
+• Used the Autopilot interface to see side-by-side comparisons of different prompt outcomes
+• Explored how small adjustments in tone or format impacted the results
 
 ---
 
@@ -41,19 +43,17 @@ Getting used to writing “for a machine” rather than a person took some effor
 
 🚀 **Application Going Forward**
 I’ll apply these prompt design skills to:
-
-* Generate better automations using UiPath Autopilot by providing crystal-clear task definitions
-* Improve the quality of AI-generated email drafts, reports, and responses in business workflows
-* Teach others on my team how to write effective prompts to boost adoption of generative AI
-* Build prompt templates for common automation use cases in the solar industry
+• Generate better automations using UiPath Autopilot by providing crystal-clear task definitions
+• Improve the quality of AI-generated email drafts, reports, and responses in business workflows
+• Teach others on my team how to write effective prompts to boost adoption of generative AI
+• Build prompt templates for common automation use cases in the solar industry
 
 ---
 
-❓**Questions I Still Have**
-
-* How can I scale prompt libraries across teams or departments for consistency?
-* Are there prompt testing tools or simulators to preview AI outputs in different contexts?
-* Can Autopilot prompts be version-controlled and reused like code snippets?
+❓ **Questions I Still Have**
+• How can I scale prompt libraries across teams or departments for consistency?
+• Are there prompt testing tools or simulators to preview AI outputs in different contexts?
+• Can Autopilot prompts be version-controlled and reused like code snippets?
 
 ---
 
