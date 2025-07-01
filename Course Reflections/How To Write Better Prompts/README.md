@@ -1,7 +1,3 @@
-Here’s the corrected version of your **“How To Write Better Prompts”** course reflection with proper GitHub-style formatting, matching exactly the visual structure of your previous modules:
-
----
-
 🧠 **Course Reflection: How To Write Better Prompts (UiPath Academy)**
 **Completed:** June 2025
 **Part of:** Automation Starter Learning Plan
